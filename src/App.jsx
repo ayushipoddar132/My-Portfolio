@@ -79,6 +79,8 @@ const projects = [
       `${BASE}projects/nails-1.png`,
       `${BASE}projects/nails-2.png`,
       `${BASE}projects/nails-3.png`,
+      `${BASE}projects/nails-4.png`,
+      `${BASE}projects/nails-5.png`,
     ],
   },
 
