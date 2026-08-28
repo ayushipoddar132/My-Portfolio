@@ -48,6 +48,10 @@ const projects = [
       `${BASE}projects/resume-1.png`,
       `${BASE}projects/resume-2.png`,
       `${BASE}projects/resume-3.png`,
+      `${BASE}projects/resume-4.png`,
+      `${BASE}projects/resume-5.png`,
+      `${BASE}projects/resume-6.png`,
+      `${BASE}projects/resume-7.png`,
     ],
   },
 
