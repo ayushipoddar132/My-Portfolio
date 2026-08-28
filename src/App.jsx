@@ -24,10 +24,16 @@ const projects = [
     liveUrl: "https://benevolent-moonbeam-8a7198.netlify.app/",
 
     screenshots: [
-      `${BASE}projects/artistry-1.png`,
-      `${BASE}projects/artistry-2.png`,
-      `${BASE}projects/artistry-3.png`,
-    ],
+  `${BASE}projects/artistry-1.png`,
+  `${BASE}projects/artistry-2.png`,
+  `${BASE}projects/artistry-3.png`,
+  `${BASE}projects/artistry-4.png`,
+  `${BASE}projects/artistry-5.png`,
+  `${BASE}projects/artistry-6.png`,
+  `${BASE}projects/artistry-7.png`,
+  `${BASE}projects/artistry-8.png`,
+  `${BASE}projects/artistry-9.png`,
+],
   },
 
   {
