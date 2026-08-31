@@ -21,7 +21,7 @@ const projects = [
     previewLabel: "ARTISTRY NAIL STUDIO",
     previewHeading: "Nails, made to be noticed.",
 
-    liveUrl: "https://benevolent-moonbeam-8a7198.netlify.app/",
+    liveUrl: "https://nimble-licorice-730989.netlify.app/",
 
     screenshots: [
   `${BASE}projects/artistry-1.png`,
