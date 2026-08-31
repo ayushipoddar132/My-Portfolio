@@ -123,6 +123,8 @@ const projects = [
       `${BASE}projects/salon-1.png`,
       `${BASE}projects/salon-2.png`,
       `${BASE}projects/salon-3.png`,
+      `${BASE}projects/salon-4.png`,
+      `${BASE}projects/salon-5.png`,
     ],
   },
 ];
