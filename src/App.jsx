@@ -117,7 +117,7 @@ const projects = [
     previewLabel: "UNISEX SALON",
     previewHeading: "Your next look starts here.",
 
-    liveUrl: "",
+    liveUrl: "https://glowing-macaron-d034cb.netlify.app/",
 
     screenshots: [
       `${BASE}projects/salon-1.png`,
